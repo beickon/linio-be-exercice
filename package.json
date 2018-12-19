@@ -1,0 +1,14 @@
+{
+  "name": "linio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linio-be.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Francisco",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
